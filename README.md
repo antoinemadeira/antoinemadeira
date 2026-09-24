@@ -1,4 +1,8 @@
-## Hi there 👋
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antoine%20Madeira%20👨‍💻%&width=800&height=110)](https://github.com/Akshay090/svg-banners)
+
+### Hi there, I'm Antoine 👋
+
+👨‍💻 I am a French Canadian 🇫🇷🇨🇦 engineer who likes to play with various tools.
 
 <!--
 **antoinemadeira/antoinemadeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
